@@ -1,10 +1,8 @@
 [
-    [
-    {"category":[
+   { "category":[
         {"name":"Angular", "code":"angular"}
-    ]
-    }],
-    [{"angular": [
+    ],
+    "angular": [
      {
       "questionId": "1",
       "questionText": "What is the objective of dependency injection?",
@@ -57,6 +55,4 @@
       "explanation": "object instantiations are taken care of by the constructor in Angular",
       "selectedOption": ""
     }]
-  }
-  ]
-  ]
+    } ]
