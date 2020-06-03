@@ -4,7 +4,7 @@
     ],
     "angular": [
      {
-      "questionId": "1",
+      "questionId": 1,
       "questionText": "What is the objective of dependency injection?",
       "options": [
         { "optionValue": "1", "optionText": "Pass the service to the client." },
@@ -17,7 +17,7 @@
       "selectedOption": ""
     },
     {
-      "questionId": "2",
+      "questionId": 2,
       "questionText": "Which of the following benefit from dependency injection?",
       "options": [
         { "optionValue": "1", "optionText": "Programming" },
@@ -43,7 +43,7 @@
       "selectedOption": ""
     },
     {
-      "questionId": "4",
+      "questionId": 4,
       "questionText": "In which of the following does dependency injection occur?",
       "options": [
         { "optionValue": "1", "optionText": "@Injectable()" },
